@@ -9,8 +9,5 @@ namespace app
     class Class1
     {
 
-
-
-
     }
 }
