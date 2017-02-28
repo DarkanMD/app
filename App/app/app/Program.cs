@@ -11,7 +11,7 @@ namespace app
         static void Main(string[] args)
         {
             Console.Write("Hello ");
-            Console.WriteLine("World");
+            Console.Write("World\n");
         }
     }
 }
