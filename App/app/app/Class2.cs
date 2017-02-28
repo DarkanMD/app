@@ -8,5 +8,6 @@ namespace app
 {
     class Class2
     {
+//asdasd
     }
 }
